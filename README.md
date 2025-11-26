@@ -1,6 +1,6 @@
 # 🚗 Simulador Automotivo: Sensor de Ré e Câmbio Sequencial
 
-Este projeto é um sistema embarcado desenvolvido em **C++ para Arduino** que simula funcionalidades essenciais de um painel automotivo. O sistema integra um **sensor de estacionamento** com alertas audiovisuais e um **câmbio sequencial** controlado via joystick, exibindo a marcha atual em formato digital.
+Este projeto é um sistema embarcado desenvolvido em **C++/INO para Arduino** que simula funcionalidades essenciais de um painel automotivo. O sistema integra um **sensor de estacionamento** com alertas audiovisuais e um **câmbio sequencial** controlado via joystick, exibindo a marcha atual em formato digital.
 
 ## 📋 Funcionalidades
 
